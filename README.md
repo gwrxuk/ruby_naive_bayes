@@ -23,8 +23,8 @@ ruby -v
 Clone the repository to your local machine:
 
 ```bash
-git clone https://.git
-cd ruby_naive_bayes_diabetes_prediction
+git clone https://github.com/gwrxuk/ruby_naive_bayes
+cd ruby_naive_bayes
 ```
 
 ### Usage
